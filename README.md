@@ -1,2 +1,2 @@
-# Power-BI-Financial-dashboard
-A sample Financial dashboard in Power BI after data cleansing in power BI
+# Power-BI-Financial-dashboard edits added by me 
+
