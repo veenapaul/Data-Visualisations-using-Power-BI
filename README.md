@@ -2,6 +2,8 @@
 Data Visualisations in Power BI after data cleansing in power BI
 
 
+![Data-Visualisations-using-Power-BI](https://github.com/veenapaul/Data-Visualisations-using-Power-BI/blob/master/Customer%20Analysis.png)
+
 ![Covid-19](https://user-images.githubusercontent.com/58709774/136692327-b0afc57b-d02d-4dc4-8bc6-94293259d860.png)
 
 
